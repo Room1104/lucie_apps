@@ -37,15 +37,21 @@ or, with easy_install
 
   * Save the parameters on your files <strong>tweet.py</strong> and <strong>streamer.py</strong>:
 
-  ```  APP_KEY='Nkq8oSHsrSSICjnZuSf88bray'```
-  ```  APP_SECRET='V0scqfG9u3j0KJCzV4y2HKSIma4NXw5NizXViebvkz9qt9f3LK'```
-  ```  OAUTH_TOKEN='3499297936-gTkxBYcgYNehOyEdldu8n7ncvIoIOYNHgcholQ6'```
-  ```  OAUTH_TOKEN_SECRET ='TfY8CLUKLx74dQ7hoaYMZuAhezI6DZ3uLtkUIpHoJKawO'```
+``` 
+	APP_KEY='Nkq8oSHsrSSICjnZuSf88bray'
+	APP_SECRET='V0scqfG9u3j0KJCzV4y2HKSIma4NXw5NizXViebvkz9qt9f3LK'
+	OAUTH_TOKEN='3499297936-gTkxBYcgYNehOyEdldu8n7ncvIoIOYNHgcholQ6'
+	OAUTH_TOKEN_SECRET ='TfY8CLUKLx74dQ7hoaYMZuAhezI6DZ3uLtkUIpHoJKawO'
+    
+```
+
   * Now you are ready to go!
 
 ## Tweeting
 
 The twitter count <strong>@LucieLAMoR</strong>, <strong>password:lamor2015</strong>
 The incomming tweet must to include:
-  * Go to ` https://dev.twitter.com/apps ` and register an application
-
+  * @LucieLAMoR and:
+  	* <strong>good robot, cool robot, great robot</strong>kicks the hormone down if the service /aes/nasty is called
+  	* <strong>bad robot, rubbish robot</strong>kicks the hormone down if the service /aes/nasty is called
+  	* <strong>coffee,  #Coffee, </strong>the server <strong>find_object</strong> is called
